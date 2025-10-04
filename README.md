@@ -1,3 +1,5 @@
+![thumbnail.png](https://github.com/aldr4GO/Comparative-Analysis-of-Multi-Source-Satellite-Imagery-in-North-Jakarta-Indonesia/blob/main/thumbnail.png)
+
 # 🛰️ Comparative Analysis of Multi-Source Satellite Imagery in North Jakarta, Indonesia
 
 A comprehensive study comparing PlanetScope (optical) and Sentinel-1 (radar) satellite imagery over a 5x5 km area in North Jakarta. This project evaluates spectral behavior, edge detection performance, and applies deep learning via EfficientNet for object classification.
