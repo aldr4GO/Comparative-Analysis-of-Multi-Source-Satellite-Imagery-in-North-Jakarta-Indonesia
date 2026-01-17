@@ -4,7 +4,7 @@
   "desc_portfolio": "Trained EfficientNet models, achieving up to 98% validation accuracy in land cover classification."
 }
 META-->
-![thumbnail.png](https://github.com/aldr4GO/Comparative-Analysis-of-Multi-Source-Satellite-Imagery-in-North-Jakarta-Indonesia/blob/main/thumbnail.png)
+![thumbnail.png](https://github.com/aldr4GO/Comparative-Analysis-of-Multi-Source-Satellite-Imagery-in-North-Jakarta-Indonesia/blob/main/thumbnail/thumbnail.png)
 
 # 🛰️ Comparative Analysis of Multi-Source Satellite Imagery in North Jakarta, Indonesia
 
